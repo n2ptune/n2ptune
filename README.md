@@ -6,3 +6,6 @@
 제 꿈은 오픈 소스계의 BTS입니다.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=n2ptune&count_private=true&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=n2ptune)](https://solved.ac/n2ptune)

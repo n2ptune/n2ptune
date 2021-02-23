@@ -2,9 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=n2ptune&count_private=true&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-프론트엔드 개발자
-
-😍
+프론트엔드 개발자 😍
 
 - Vue
 - Nuxt

@@ -1,14 +1,10 @@
 <h2 align="center">
-  🤚 I'm <a href="https://portfolio.imkh.dev" target="_blank">n2ptune</a> (๑˃̵ᴗ˂̵)و ♡
+  🤚 I'm n2ptune (๑˃̵ᴗ˂̵)و ♡
 </h2>
 
 <p align="center">
   <span>
     <a href="https://imkh.dev" target="_blank">Blog</a>
-    •
-  </span>
-  <span>
-    <a href="https://portfolio.imkh.dev" target="_blank">Portfolio</a>
     •
   </span>
   <strong>
